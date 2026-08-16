@@ -57,9 +57,17 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 Hello! My name is Chenglin Liu (刘承林 in Chinese). 
 
-I'm currently a senior undergraduate student at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
-I'll achieve my Bachelor's degree in Computer Science and Technology in June 2026. After that, I'll pursue a Ph.D. degree at IIIS, Tsinghua University, where I'm honored to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
+I'm currently a Ph.D. student at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I'm honored to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/).
 
 Research Interests
 ======
 Currently my research interests lie in Large Language Models (LLMs), Reinforcement Learning (RL), and Distributed Systems. I'm also glad to explore other areas in Computer Systems and Artificial Intelligence.
+
+Education
+======
+- Ph.D. in Computer Science and Technology, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) — 2026 – present
+- B.S. in Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/) — 2022 – 2026
+
+Research Experience
+======
+- Research Intern at the [Order Lab](https://orderlab.io/), [University of Michigan](https://umich.edu/), advised by [Prof. Ryan Huang](https://web.eecs.umich.edu/~ryanph/) — February to July 2025
