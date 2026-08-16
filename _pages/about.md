@@ -65,9 +65,9 @@ Currently my research interests lie in Large Language Models (LLMs), Reinforceme
 
 Education
 ======
-- Ph.D. in Computer Science and Technology, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) — 2026 – present
-- B.S. in Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/) — 2022 – 2026
+- Ph.D. in Computer Science and Technology, [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2026–present
+- B.S. in Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022–2026
 
 Research Experience
 ======
-- Research Intern at the [Order Lab](https://orderlab.io/), [University of Michigan](https://umich.edu/), advised by [Prof. Ryan Huang](https://web.eecs.umich.edu/~ryanph/) — February to July 2025
+- Research Intern at the [Order Lab](https://orderlab.io/), [University of Michigan](https://umich.edu/), advised by [Prof. Ryan Huang](https://web.eecs.umich.edu/~ryanph/), February–July 2025
